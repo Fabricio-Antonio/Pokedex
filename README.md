@@ -1,6 +1,6 @@
 # Pokédex
 
-![Previw](imagens/pokedex.jpg)
+![Previw](imagens/pok%C3%A9dex.jpg)
 
 >Pokédex até a 6ª geração
 
